@@ -46,16 +46,38 @@ class MainActivity : FragmentActivity() {
         menuAdapter = MenuAdapter(menuItems) { menuItem ->
             when (menuItem) {
                 MenuItem.SEARCH -> {
-                    startActivity(Intent(this, SearchActivity::class.java))
+                    android.util.Log.d("MainActivity", "Starting SearchActivity")
+                    try {
+                        val intent = Intent(this, SearchActivity::class.java)
+                        intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
+                        startActivity(intent)
+                    } catch (e: Exception) {
+                        android.util.Log.e("MainActivity", "Failed to start SearchActivity", e)
+                    }
                 }
                 MenuItem.GENRES -> {
-                    startActivity(Intent(this, GenresActivity::class.java))
+                    android.util.Log.d("MainActivity", "Starting GenresActivity")
+                    try {
+                        val intent = Intent(this, GenresActivity::class.java)
+                        intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
+                        startActivity(intent)
+                    } catch (e: Exception) {
+                        android.util.Log.e("MainActivity", "Failed to start GenresActivity", e)
+                    }
                 }
                 MenuItem.POPULAR -> {
+                    android.util.Log.d("MainActivity", "Loading popular movies")
                     loadPopularMovies()
                 }
                 MenuItem.SETTINGS -> {
-                    startActivity(Intent(this, SettingsActivity::class.java))
+                    android.util.Log.d("MainActivity", "Starting SettingsActivity")
+                    try {
+                        val intent = Intent(this, SettingsActivity::class.java)
+                        intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
+                        startActivity(intent)
+                    } catch (e: Exception) {
+                        android.util.Log.e("MainActivity", "Failed to start SettingsActivity", e)
+                    }
                 }
             }
         }
@@ -133,11 +155,13 @@ class MainActivity : FragmentActivity() {
             holder.textView.isSelected = position == selectedPosition
 
             holder.itemView.setOnClickListener {
+                android.util.Log.d("MenuAdapter", "Clicked on item: ${item.name}")
                 onItemClick(item)
             }
 
             holder.itemView.setOnKeyListener { _, keyCode, event ->
                 if (event.action == android.view.KeyEvent.ACTION_DOWN && (keyCode == android.view.KeyEvent.KEYCODE_ENTER || keyCode == android.view.KeyEvent.KEYCODE_DPAD_CENTER)) {
+                    android.util.Log.d("MenuAdapter", "Key pressed on item: ${item.name}")
                     onItemClick(item)
                     true
                 } else {

@@ -15,6 +15,7 @@ import com.example.omdbtv.databinding.ActivityMainBinding
 import kotlinx.coroutines.launch
 import com.example.omdbtv.ui.search.SearchActivity
 import com.example.omdbtv.ui.genres.GenresActivity
+import com.example.omdbtv.ui.detail.MovieDetailActivity
 class MainActivity : FragmentActivity() {
 
     private lateinit var binding: ActivityMainBinding

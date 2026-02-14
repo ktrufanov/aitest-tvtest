@@ -1,5 +1,7 @@
 package com.example.omdbtv.api
 
+import android.content.Context
+import android.content.SharedPreferences
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
@@ -10,9 +12,21 @@ object RetrofitClient {
 
     private const val BASE_URL = "https://www.omdbapi.com/"
 
-    // ЗАМЕНИТЕ НА СВОЙ API КЛЮЧ с omdbapi.com/apikey.aspx
-    // Бесплатный ключ дает 1000 запросов в день
-    const val API_KEY = "YOUR_API_KEY"
+    private var prefs: SharedPreferences? = null
+
+    fun init(context: Context) {
+        prefs = context.getSharedPreferences("app_prefs", Context.MODE_PRIVATE)
+    }
+
+    // API ключ получен из настроек приложения
+    var API_KEY: String : String
+        get() {
+            val savedKey = prefs?.getString("api_key", null)
+            return savedKey ?: "YOUR_API_KEY"
+        }
+        set(value) {
+            prefs?.edit()?.putString("api_key", value)?.apply()
+        }
 
     private val loggingInterceptor = HttpLoggingInterceptor().apply {
         level = HttpLoggingInterceptor.Level.BODY

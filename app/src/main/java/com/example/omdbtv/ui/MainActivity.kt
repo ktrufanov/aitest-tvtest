@@ -16,6 +16,7 @@ import kotlinx.coroutines.launch
 import com.example.omdbtv.ui.search.SearchActivity
 import com.example.omdbtv.ui.genres.GenresActivity
 import com.example.omdbtv.ui.detail.MovieDetailActivity
+import com.example.omdbtv.ui.settings.SettingsActivity
 class MainActivity : FragmentActivity() {
 
     private lateinit var binding: ActivityMainBinding
@@ -25,13 +26,16 @@ class MainActivity : FragmentActivity() {
     private val menuItems = listOf(
         MenuItem.SEARCH,
         MenuItem.GENRES,
-        MenuItem.POPULAR
+        MenuItem.POPULAR,
+        MenuItem.SETTINGS
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        com.example.omdbtv.api.RetrofitClient.init(this)
 
         setupMenu()
         setupMoviesGrid()
@@ -49,6 +53,9 @@ class MainActivity : FragmentActivity() {
                 }
                 MenuItem.POPULAR -> {
                     loadPopularMovies()
+                }
+                MenuItem.SETTINGS -> {
+                    startActivity(Intent(this, SettingsActivity::class.java))
                 }
             }
         }
@@ -97,7 +104,8 @@ class MainActivity : FragmentActivity() {
     enum class MenuItem(val titleRes: Int) {
         SEARCH(R.string.search),
         GENRES(R.string.genres_title),
-        POPULAR(R.string.popular_title)
+        POPULAR(R.string.popular_title),
+        SETTINGS(R.string.settings_title)
     }
 
     class MenuAdapter(

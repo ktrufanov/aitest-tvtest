@@ -5,6 +5,7 @@
     <string name="search_hint">Введите название фильма</string>
     <string name="genres_title">Жанры</string>
     <string name="popular_title">Популярное</string>
+    <string name="settings_title">Настройки</string>
     <string name="search">Поиск</string>
     <string name="no_results">Ничего не найдено</string>
     <string name="loading">Загрузка...</string>
@@ -17,6 +18,12 @@
     <string name="year">Год</string>
     <string name="genre">Жанр</string>
     <string name="runtime">Длительность</string>
+
+    <!-- Settings -->
+    <string name="api_key_title">API ключ OMDB</string>
+    <string name="api_key_description">Введите ваш API ключ от omdbapi.com</string>
+    <string name="save">Сохранить</string>
+    <string name="api_key_saved">API ключ сохранен</string>
 
     <!-- Genres -->
     <string name="genre_action">Боевик</string>

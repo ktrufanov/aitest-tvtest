@@ -13,7 +13,7 @@ import com.example.omdbtv.api.RetrofitClient
 import com.example.omdbtv.api.OmdbApiService
 import com.example.omdbtv.databinding.ActivityMainBinding
 import kotlinx.coroutines.launch
-
+import com.example.omdbtv.ui.search.SearchActivity
 class MainActivity : FragmentActivity() {
 
     private lateinit var binding: ActivityMainBinding

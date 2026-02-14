@@ -19,7 +19,7 @@ object RetrofitClient {
     }
 
     // API ключ получен из настроек приложения
-    var API_KEY: String : String
+    var API_KEY: String
         get() {
             val savedKey = prefs?.getString("api_key", null)
             return savedKey ?: "YOUR_API_KEY"

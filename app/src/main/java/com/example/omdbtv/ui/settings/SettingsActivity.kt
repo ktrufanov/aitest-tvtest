@@ -19,6 +19,9 @@ class SettingsActivity : FragmentActivity() {
 
         setupViews()
         loadCurrentApiKey()
+
+        // Автоматически фокусируемся на поле ввода API ключа
+        binding.apiKeyInput.requestFocus()
     }
 
     private fun setupViews() {

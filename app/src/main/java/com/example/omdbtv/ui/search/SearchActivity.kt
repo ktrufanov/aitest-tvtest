@@ -25,6 +25,9 @@ class SearchActivity : FragmentActivity() {
         setupRecyclerView()
         setupSearch()
         setupBackButton()
+
+        // Автоматически фокусируемся на поле поиска
+        binding.searchInput.requestFocus()
     }
 
     private fun setupRecyclerView() {

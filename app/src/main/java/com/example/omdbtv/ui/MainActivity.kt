@@ -67,6 +67,7 @@ class MainActivity : FragmentActivity() {
                 false
             )
             adapter = menuAdapter
+            requestFocus()
         }
     }
 
@@ -133,6 +134,15 @@ class MainActivity : FragmentActivity() {
 
             holder.itemView.setOnClickListener {
                 onItemClick(item)
+            }
+
+            holder.itemView.setOnKeyListener { _, keyCode, event ->
+                if (event.action == android.view.KeyEvent.ACTION_DOWN && (keyCode == android.view.KeyEvent.KEYCODE_ENTER || keyCode == android.view.KeyEvent.KEYCODE_DPAD_CENTER)) {
+                    onItemClick(item)
+                    true
+                } else {
+                    false
+                }
             }
 
             holder.itemView.setOnFocusChangeListener { _, hasFocus ->

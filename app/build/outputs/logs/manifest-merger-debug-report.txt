@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\messi\.gradle\caches\8.9\transforms\4b7ed0cee70f8ed57b5940e2d59481c9\transformed\jetified-viewbinding-8.5.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\858dedc70251b33d096d67224d1092b2\transformed\leanback-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\messi\.gradle\caches\8.9\transforms\036dcebf07dab756524e4b3cc56334c8\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\067a4c446c7e08b8bbf4328bac47af01\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\5dfcdcb970c297488004de1c0a51a33c\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\messi\.gradle\caches\8.9\transforms\fc52d7129ecb91d134008870fb0904b2\transformed\jetified-glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\messi\.gradle\caches\8.9\transforms\3a3f73bf3c4430bfcab751ad984a9613\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\4f8a23fd08e630474464b9d8945a9dd5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\fa3cd39c1cb1ea071a7caea43cc38535\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\4a9bf89b296c3047f5060a11f5496fce\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\f269d612f72745560d17f11498cf414c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\d5df13fa16fd86725d7f601986de8abc\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\c11ded1d808c1eec61662a3ef4c64d2a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\f9375cefbe3191cf21fd0d7b59d5c5bf\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\91f2140424a7196db0ec0f5602d3cb06\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\fa79b3e6e256e2a09c5583624be8020a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\messi\.gradle\caches\8.9\transforms\0c4167c79624225d09a67be362728c6c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\messi\.gradle\caches\8.9\transforms\82f24dc373cb65a544e3d4127dbb07f6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\messi\.gradle\caches\8.9\transforms\b496b2309b160dd5e6f3dad9ac638c4b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\7a971547bff0d0bac2580f80d19884ee\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\0fbb6f0b4f32912a8185d2d5dba43ca8\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\a160233a78455d42c269ce3bbf49e12c\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\dc7eff3e48ec055b0d13fd7e1d7796d7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\messi\.gradle\caches\8.9\transforms\aebeba30d031002f74a372cb9637c309\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\de0e39f7d9e1118eef8b2606f9a6e23c\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\ed24961bd71afa7498f52b0c5e53cdbf\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\b1c5b1610abfa6be983cc3ce4cc3b059\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\be1a6f224e491be0b8996951ccdd5850\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\e0818510563e963d73ace3ade0bc2052\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\629a4f79df3af7ced00fac0d16d825d9\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\e6f2ed6cfbb0652de715be5d017125ff\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\680e152460a77709dbe76ad3babc0c0a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\messi\.gradle\caches\8.9\transforms\8876fb1918079b95a50cc3f321ed181a\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\messi\.gradle\caches\8.9\transforms\e76ae4776b1f4e6ce28f9013bdcbde6a\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\0f96d1b2dab846c22dd37ff82844f618\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\22492f6eadb04e8fd73f0a7e765ce25e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\57930b39b4fdda6853b532a3019fbb38\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\e19a196721a9b7eba0e7a2ed6b0e54cc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\9ba70f073a658ae2227adfe99f56a0fe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\messi\.gradle\caches\8.9\transforms\1c10621963f618b5a71c0af77dbfa62d\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\58105b5b3578d9e18a868ec910aeb8c6\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bd81390ffa1cb892a5f5f27229bde3d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\d5f8aadbd03c8727e6bb7ccb63431040\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:8:9-52
+uses-feature#android.software.leanback
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:11:9-49
+application
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:14:5-54:19
+INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:14:5-54:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\0f96d1b2dab846c22dd37ff82844f618\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\0f96d1b2dab846c22dd37ff82844f618\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\e19a196721a9b7eba0e7a2ed6b0e54cc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\e19a196721a9b7eba0e7a2ed6b0e54cc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:17:9-41
+	tools:targetApi
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:21:9-29
+	android:icon
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:15:9-35
+	android:banner
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:20:9-42
+	android:theme
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:19:9-44
+activity#com.example.omdbtv.ui.MainActivity
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:26:13-60
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:24:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:29:17-86
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:29:27-83
+activity#com.example.omdbtv.ui.detail.MovieDetailActivity
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:33:9-35:63
+	android:theme
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:35:13-60
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:34:13-58
+activity#com.example.omdbtv.ui.search.SearchActivity
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:37:9-40:55
+	android:windowSoftInputMode
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:40:13-52
+	android:theme
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:39:13-60
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:38:13-53
+activity#com.example.omdbtv.ui.search.SearchResultsActivity
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:42:9-44:63
+	android:theme
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:44:13-60
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:43:13-60
+activity#com.example.omdbtv.ui.genres.GenresActivity
+ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:46:9-48:63
+	android:theme
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:48:13-60
+	android:name
+		ADDED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml:47:13-53
+uses-sdk
+INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\messi\.gradle\caches\8.9\transforms\4b7ed0cee70f8ed57b5940e2d59481c9\transformed\jetified-viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\messi\.gradle\caches\8.9\transforms\4b7ed0cee70f8ed57b5940e2d59481c9\transformed\jetified-viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\858dedc70251b33d096d67224d1092b2\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\858dedc70251b33d096d67224d1092b2\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\messi\.gradle\caches\8.9\transforms\036dcebf07dab756524e4b3cc56334c8\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\messi\.gradle\caches\8.9\transforms\036dcebf07dab756524e4b3cc56334c8\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\067a4c446c7e08b8bbf4328bac47af01\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\067a4c446c7e08b8bbf4328bac47af01\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\5dfcdcb970c297488004de1c0a51a33c\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\5dfcdcb970c297488004de1c0a51a33c\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\messi\.gradle\caches\8.9\transforms\fc52d7129ecb91d134008870fb0904b2\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\messi\.gradle\caches\8.9\transforms\fc52d7129ecb91d134008870fb0904b2\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\messi\.gradle\caches\8.9\transforms\3a3f73bf3c4430bfcab751ad984a9613\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\messi\.gradle\caches\8.9\transforms\3a3f73bf3c4430bfcab751ad984a9613\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\4f8a23fd08e630474464b9d8945a9dd5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\4f8a23fd08e630474464b9d8945a9dd5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\fa3cd39c1cb1ea071a7caea43cc38535\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\fa3cd39c1cb1ea071a7caea43cc38535\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\4a9bf89b296c3047f5060a11f5496fce\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\4a9bf89b296c3047f5060a11f5496fce\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\f269d612f72745560d17f11498cf414c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\f269d612f72745560d17f11498cf414c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\d5df13fa16fd86725d7f601986de8abc\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\d5df13fa16fd86725d7f601986de8abc\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\c11ded1d808c1eec61662a3ef4c64d2a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\c11ded1d808c1eec61662a3ef4c64d2a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\f9375cefbe3191cf21fd0d7b59d5c5bf\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\f9375cefbe3191cf21fd0d7b59d5c5bf\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\91f2140424a7196db0ec0f5602d3cb06\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\91f2140424a7196db0ec0f5602d3cb06\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\fa79b3e6e256e2a09c5583624be8020a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\fa79b3e6e256e2a09c5583624be8020a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\messi\.gradle\caches\8.9\transforms\0c4167c79624225d09a67be362728c6c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\messi\.gradle\caches\8.9\transforms\0c4167c79624225d09a67be362728c6c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\messi\.gradle\caches\8.9\transforms\82f24dc373cb65a544e3d4127dbb07f6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\messi\.gradle\caches\8.9\transforms\82f24dc373cb65a544e3d4127dbb07f6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\messi\.gradle\caches\8.9\transforms\b496b2309b160dd5e6f3dad9ac638c4b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\messi\.gradle\caches\8.9\transforms\b496b2309b160dd5e6f3dad9ac638c4b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\7a971547bff0d0bac2580f80d19884ee\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\7a971547bff0d0bac2580f80d19884ee\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\0fbb6f0b4f32912a8185d2d5dba43ca8\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\0fbb6f0b4f32912a8185d2d5dba43ca8\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\a160233a78455d42c269ce3bbf49e12c\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\a160233a78455d42c269ce3bbf49e12c\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\dc7eff3e48ec055b0d13fd7e1d7796d7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\dc7eff3e48ec055b0d13fd7e1d7796d7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\messi\.gradle\caches\8.9\transforms\aebeba30d031002f74a372cb9637c309\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\messi\.gradle\caches\8.9\transforms\aebeba30d031002f74a372cb9637c309\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\de0e39f7d9e1118eef8b2606f9a6e23c\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\de0e39f7d9e1118eef8b2606f9a6e23c\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\ed24961bd71afa7498f52b0c5e53cdbf\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\ed24961bd71afa7498f52b0c5e53cdbf\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\b1c5b1610abfa6be983cc3ce4cc3b059\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\b1c5b1610abfa6be983cc3ce4cc3b059\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\be1a6f224e491be0b8996951ccdd5850\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\be1a6f224e491be0b8996951ccdd5850\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\e0818510563e963d73ace3ade0bc2052\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\messi\.gradle\caches\8.9\transforms\e0818510563e963d73ace3ade0bc2052\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\629a4f79df3af7ced00fac0d16d825d9\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\629a4f79df3af7ced00fac0d16d825d9\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\e6f2ed6cfbb0652de715be5d017125ff\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\e6f2ed6cfbb0652de715be5d017125ff\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\680e152460a77709dbe76ad3babc0c0a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\680e152460a77709dbe76ad3babc0c0a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\messi\.gradle\caches\8.9\transforms\8876fb1918079b95a50cc3f321ed181a\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\messi\.gradle\caches\8.9\transforms\8876fb1918079b95a50cc3f321ed181a\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\messi\.gradle\caches\8.9\transforms\e76ae4776b1f4e6ce28f9013bdcbde6a\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\messi\.gradle\caches\8.9\transforms\e76ae4776b1f4e6ce28f9013bdcbde6a\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\0f96d1b2dab846c22dd37ff82844f618\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\0f96d1b2dab846c22dd37ff82844f618\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\22492f6eadb04e8fd73f0a7e765ce25e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\22492f6eadb04e8fd73f0a7e765ce25e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\57930b39b4fdda6853b532a3019fbb38\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\57930b39b4fdda6853b532a3019fbb38\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\e19a196721a9b7eba0e7a2ed6b0e54cc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\e19a196721a9b7eba0e7a2ed6b0e54cc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\9ba70f073a658ae2227adfe99f56a0fe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\9ba70f073a658ae2227adfe99f56a0fe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\messi\.gradle\caches\8.9\transforms\1c10621963f618b5a71c0af77dbfa62d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\messi\.gradle\caches\8.9\transforms\1c10621963f618b5a71c0af77dbfa62d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\58105b5b3578d9e18a868ec910aeb8c6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\58105b5b3578d9e18a868ec910aeb8c6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bd81390ffa1cb892a5f5f27229bde3d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bd81390ffa1cb892a5f5f27229bde3d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\d5f8aadbd03c8727e6bb7ccb63431040\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\messi\.gradle\caches\8.9\transforms\d5f8aadbd03c8727e6bb7ccb63431040\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\messi\Projects\torrent\app\src\main\AndroidManifest.xml
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.omdbtv.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.omdbtv.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\messi\.gradle\caches\8.9\transforms\1bdc206626008da73e301766f474e09e\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\0f96d1b2dab846c22dd37ff82844f618\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\messi\.gradle\caches\8.9\transforms\0f96d1b2dab846c22dd37ff82844f618\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\messi\.gradle\caches\8.9\transforms\a1ec8688dd667887ef29a79901a092fb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

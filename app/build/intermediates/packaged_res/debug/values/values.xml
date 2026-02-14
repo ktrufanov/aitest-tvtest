@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#E50914</color>
+    <color name="background">#141414</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#2A2A2A</color>
+    <color name="focused">#E50914</color>
+    <color name="primary">#E50914</color>
+    <color name="primary_dark">#B20710</color>
+    <color name="selected">#CC0000</color>
+    <color name="surface">#1F1F1F</color>
+    <color name="text_hint">#808080</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_height">300dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="card_width">200dp</dimen>
+    <dimen name="grid_margin">48dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+    <string name="actors">В ролях</string>
+    <string name="app_name">OMDB TV</string>
+    <string name="director">Режиссер</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="genre">Жанр</string>
+    <string name="genre_action">Боевик</string>
+    <string name="genre_adventure">Приключения</string>
+    <string name="genre_animation">Мультфильм</string>
+    <string name="genre_comedy">Комедия</string>
+    <string name="genre_crime">Криминал</string>
+    <string name="genre_documentary">Документальный</string>
+    <string name="genre_drama">Драма</string>
+    <string name="genre_family">Семейный</string>
+    <string name="genre_fantasy">Фэнтези</string>
+    <string name="genre_horror">Ужасы</string>
+    <string name="genre_mystery">Мистика</string>
+    <string name="genre_romance">Мелодрама</string>
+    <string name="genre_scifi">Фантастика</string>
+    <string name="genre_thriller">Триллер</string>
+    <string name="genre_war">Военный</string>
+    <string name="genre_western">Вестерн</string>
+    <string name="genres_title">Жанры</string>
+    <string name="loading">Загрузка...</string>
+    <string name="no_results">Ничего не найдено</string>
+    <string name="plot">Сюжет</string>
+    <string name="popular_title">Популярное</string>
+    <string name="rating">Рейтинг</string>
+    <string name="retry">Повторить</string>
+    <string name="runtime">Длительность</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Введите название фильма</string>
+    <string name="search_title">Поиск фильмов</string>
+    <string name="year">Год</string>
+    <style name="Theme.OMDBTV" parent="Theme.Leanback">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+    <style name="Theme.OMDBTV.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

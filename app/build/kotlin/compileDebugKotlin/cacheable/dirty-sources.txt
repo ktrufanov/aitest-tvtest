@@ -1,0 +1,10 @@
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\api\OmdbApiService.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\ui\genres\GenresActivity.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\api\OmdbModels.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\ui\genres\SearchResultsActivity.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\ui\MainActivity.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\ui\search\SearchActivity.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\ui\MovieCardAdapter.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\ui\detail\MovieDetailActivity.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\api\RetrofitClient.kt
+C:\Users\messi\Projects\torrent\app\src\main\java\com\example\omdbtv\ui\search\SearchResultsActivity.kt

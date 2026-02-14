@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OMDB TV</string>
+    <string name="search_title">Поиск фильмов</string>
+    <string name="search_hint">Введите название фильма</string>
+    <string name="genres_title">Жанры</string>
+    <string name="popular_title">Популярное</string>
+    <string name="search">Поиск</string>
+    <string name="no_results">Ничего не найдено</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="retry">Повторить</string>
+    <string name="director">Режиссер</string>
+    <string name="actors">В ролях</string>
+    <string name="plot">Сюжет</string>
+    <string name="rating">Рейтинг</string>
+    <string name="year">Год</string>
+    <string name="genre">Жанр</string>
+    <string name="runtime">Длительность</string>
+
+    <!-- Genres -->
+    <string name="genre_action">Боевик</string>
+    <string name="genre_adventure">Приключения</string>
+    <string name="genre_animation">Мультфильм</string>
+    <string name="genre_comedy">Комедия</string>
+    <string name="genre_crime">Криминал</string>
+    <string name="genre_documentary">Документальный</string>
+    <string name="genre_drama">Драма</string>
+    <string name="genre_family">Семейный</string>
+    <string name="genre_fantasy">Фэнтези</string>
+    <string name="genre_horror">Ужасы</string>
+    <string name="genre_mystery">Мистика</string>
+    <string name="genre_romance">Мелодрама</string>
+    <string name="genre_scifi">Фантастика</string>
+    <string name="genre_thriller">Триллер</string>
+    <string name="genre_war">Военный</string>
+    <string name="genre_western">Вестерн</string>
+</resources>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.omdbtv.app-mergeDebugResources-25:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\messi\\.gradle\\caches\\8.9\\transforms\\858dedc70251b33d096d67224d1092b2\\transformed\\leanback-1.0.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "642"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_search_background.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/layout_activity_main.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_menu_item_background.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/menu_item_background.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/layout_item_main_menu.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/layout/item_main_menu.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_card_background.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/layout_activity_genres.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/layout/activity_genres.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/layout_item_genre.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/layout/item_genre.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/layout_item_movie_card.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/layout/item_movie_card.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_gradient_overlay.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/gradient_overlay.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_search_button_background.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/search_button_background.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_banner.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/banner.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/layout_item_menu.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/layout/item_menu.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/layout_activity_search.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/layout_activity_movie_detail.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.omdbtv.app-debug-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.omdbtv.app-main-29:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

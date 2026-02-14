@@ -48,6 +48,11 @@
             android:theme="@style/Theme.OMDBTV.NoActionBar" />
 
         <activity
+            android:name=".ui.settings.SettingsActivity"
+            android:theme="@style/Theme.OMDBTV.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
             android:name=".ui.search.SearchResultsActivity"
             android:theme="@style/Theme.OMDBTV.NoActionBar" />
 
